@@ -20,7 +20,7 @@ public class UserController {
 
         if (isRegistered) {
             // Return http code 201
-            return new ResponseEntity<>("User registered with success", HttpStatus.CREATED)
+            return new ResponseEntity<>("User registered with success", HttpStatus.CREATED);
         } else {
             // Return code 409
             return new ResponseEntity<>("This mail already exists", HttpStatus.CONFLICT);
