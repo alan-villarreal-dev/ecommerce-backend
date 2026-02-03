@@ -5,7 +5,7 @@
 ## 📋 Description
 RESTful API for inventory and purchase order management. This project simulates a real backend environment handling stock concurrency, transactions, and data persistence.
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 * **Language:** Java 25
 * **Framework:** Spring Boot 3
 * **Database:** PostgreSQL
