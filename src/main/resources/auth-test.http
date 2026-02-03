@@ -1,5 +1,5 @@
 ### Register a new user
-POST http://localhost:5432/auth/register
+POST http://localhost:8080/auth/register
 Content-Type: application/json
 
 {
