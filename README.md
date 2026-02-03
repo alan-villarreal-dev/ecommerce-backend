@@ -1,12 +1,12 @@
 # [E-commerce Backend]
 
-![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green) ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![Java](https://img.shields.io/badge/Java-25-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-green) ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
 
 ## 📋 Description
 RESTful API for inventory and purchase order management. This project simulates a real backend environment handling stock concurrency, transactions, and data persistence.
 
 ## 🚀 Tecnologías
-* **Language:** Java 17/21
+* **Language:** Java 25
 * **Framework:** Spring Boot 3
 * **Database:** PostgreSQL
 * **Containerization:** Docker & Docker Compose
